@@ -14,5 +14,5 @@ class Demo{
 
 };
 int main(){
-   
+return 0;   
 }
